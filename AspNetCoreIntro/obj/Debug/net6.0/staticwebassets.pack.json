@@ -1,0 +1,185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\arrow-end.png",
+      "PackagePath": "staticwebassets\\images\\arrow-end.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\arrow-middle.png",
+      "PackagePath": "staticwebassets\\images\\arrow-middle.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\arrow-start.png",
+      "PackagePath": "staticwebassets\\images\\arrow-start.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\c-1.png",
+      "PackagePath": "staticwebassets\\images\\c-1.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\c-2.png",
+      "PackagePath": "staticwebassets\\images\\c-2.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\c-3.png",
+      "PackagePath": "staticwebassets\\images\\c-3.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\d-1.png",
+      "PackagePath": "staticwebassets\\images\\d-1.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\d-2.png",
+      "PackagePath": "staticwebassets\\images\\d-2.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\d-3.png",
+      "PackagePath": "staticwebassets\\images\\d-3.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\d-4.png",
+      "PackagePath": "staticwebassets\\images\\d-4.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\d-5.png",
+      "PackagePath": "staticwebassets\\images\\d-5.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\envelope-white.png",
+      "PackagePath": "staticwebassets\\images\\envelope-white.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\insta.png",
+      "PackagePath": "staticwebassets\\images\\insta.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\location-white.png",
+      "PackagePath": "staticwebassets\\images\\location-white.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\map-img.png",
+      "PackagePath": "staticwebassets\\images\\map-img.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\target-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\target-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\telephone-white.png",
+      "PackagePath": "staticwebassets\\images\\telephone-white.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\w-1.png",
+      "PackagePath": "staticwebassets\\images\\w-1.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\w-2.png",
+      "PackagePath": "staticwebassets\\images\\w-2.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\w-3.png",
+      "PackagePath": "staticwebassets\\images\\w-3.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\w-4.png",
+      "PackagePath": "staticwebassets\\images\\w-4.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\who-img.jpg",
+      "PackagePath": "staticwebassets\\images\\who-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\images\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Desktop\\AspNetCoreIntro\\AspNetCoreIntro\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AspNetCoreIntro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AspNetCoreIntro.props",
+      "PackagePath": "build\\AspNetCoreIntro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetCoreIntro.props",
+      "PackagePath": "buildMultiTargeting\\AspNetCoreIntro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AspNetCoreIntro.props",
+      "PackagePath": "buildTransitive\\AspNetCoreIntro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

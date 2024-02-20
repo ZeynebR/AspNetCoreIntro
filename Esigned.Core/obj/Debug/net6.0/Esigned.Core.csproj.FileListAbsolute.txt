@@ -1,0 +1,11 @@
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\bin\Debug\net6.0\Esigned.Core.deps.json
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\bin\Debug\net6.0\Esigned.Core.dll
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\bin\Debug\net6.0\Esigned.Core.pdb
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\Esigned.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\Esigned.Core.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\Esigned.Core.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\Esigned.Core.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\Esigned.Core.dll
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\refint\Esigned.Core.dll
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\Esigned.Core.pdb
+C:\Users\zeyne\OneDrive\Desktop\AspNetCoreIntro\Esigned.Core\obj\Debug\net6.0\ref\Esigned.Core.dll
